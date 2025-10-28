@@ -143,5 +143,12 @@
 <img src="https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logo=ejs&logoColor=black" />
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 
+<!-- Additional icons matching Skillicons style -->
+
+<img height="48px" src="https://cdn.simpleicons.org/nodemon/76D04B" alt="Nodemon"/>
+<img height="48px" src="https://cdn.simpleicons.org/ejs/8BC34A" alt="EJS"/>
+<img height="48px" src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva"/>
+
+
 
 ---
