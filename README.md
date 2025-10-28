@@ -6,7 +6,11 @@
 </div>
 <img src="./assets/Banner.png" /> <hr/>
 
+<div align="center">
+
 ### **I'm a Web Developer 🖥️**
+
+</div>
 
 <img align="right" width="300" src="./assets/Web-Developer.gif" alt="Animation" />
 
