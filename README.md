@@ -228,15 +228,7 @@
 <p align="center">
 <a href="https://github.com/Devanand-official">
 <img height="45" src="https://cdn.simpleicons.org/github/ffffff" style="background:#000;padding:10px;border-radius:50%;"/>
-</a> 
-&nbsp;&nbsp;&nbsp;
-
-
-<!-- Gmail -->
-<a href="mailto:youremail@gmail.com" target="_blank">
-  <img height="45" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail"/>
-</a> 
-&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;<a href="mailto:youremail@gmail.com" target="_blank"><img height="45" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp;
 
 <!-- Portfolio Website -->
 <a href="https://your-portfolio-link.com" target="_blank">
