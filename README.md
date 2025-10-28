@@ -216,7 +216,7 @@
 </p>
 
 ---
-<p align="center" style="display:flex;gap:15px;justify-content:center;">
+<p align="center" style="display:flex;gap:15;justify-content:center;">
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/yourusername/" target="_blank"  style="text-decoration:none;"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
