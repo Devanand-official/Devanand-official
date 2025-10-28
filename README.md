@@ -1,13 +1,14 @@
 # 💫 Hi 👋 I'm *Devanand* 😎
 
 > ### **I'm a Web Developer 🖥️**
-<img align="right" width="300" src="./assets/Web-Developer.gif" alt="Animation">
+<br>
+<img align="right" width="300" src="./assets/Web-Developer.gif" alt="Animation" />
 
 🚀 Check out my Portfolio<br><br>[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-1abc9c?style=for-the-badge)](https://devanand.is-a.dev)<br><br>🛠️ I’m currently working on:<br>‣ Building interactive Front-End projects and experimenting with dynamic Web Apps<br><br>🤝 I’m looking to collaborate on:<br>‣ Open-Source Front-End Projects, UI/UX improvements, and fun JavaScript challenges<br><br>🧠 I’m looking for help with:<br>‣ Advanced React patterns, and mastering Back-End tech to become Full-Stack Developer<br><br>📚 I’m currently learning:<br>‣ PostgreSQL, APIs, and modern Web Development best practices<br><br>💬 Ask me about:<br>‣ HTML5, CSS3, JavaScript, Responsive Design and Git/GitHub<br><br>⚡ Fun fact:<br>‣ I believe deploying a project feels like launching a mini-rocket into the internet.
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/devanand-online/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s.devanand.official@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanand-online/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s.devanand.official@gmail.com)
 
 # 💻 Tech Stack:
 
