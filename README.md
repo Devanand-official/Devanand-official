@@ -104,3 +104,17 @@
 
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=00F7FF&center=true&vCenter=true&width=250&lines=TECH+STACK" />
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/html-5.png" width="45" />
+  <img src="https://img.icons8.com/color/96/css3.png" width="45" />
+  <img src="https://img.icons8.com/color/96/bootstrap.png" width="45" />
+  <img src="https://img.icons8.com/color/96/javascript.png" width="45" />
+  <img src="https://img.icons8.com/color/96/react-native.png" width="45" />
+</p>
+
+---
