@@ -216,6 +216,7 @@
 </p>
 
 ---
+<p align="center" style="display:flex;gap:15px;justify-content:center;">
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/yourusername/" target="_blank">
@@ -247,6 +248,6 @@
 <a href="https://your-resume-link.pdf" target="_blank">
 <img height="42" src="https://cdn.simpleicons.org/readthedocs/white"/>
 </a>
-
+</p>
 
 ---
