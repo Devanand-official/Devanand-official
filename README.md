@@ -1,9 +1,4 @@
 <h1 align="center">💫 Hi 👋 I'm  <em>Devanand</em>  😎</h1>
-<div align="center">
-  
-![](https://komarev.com/ghpvc/?username=Devanand-official&style=for-the-badge)
-
-</div>
 
 <img src="./assets/Banner.png" /> <hr/>
 
@@ -69,4 +64,9 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=Devanand-official&style=for-the-badge)
+
+</div>
 ---
