@@ -144,3 +144,76 @@
 </p>
 
 ---
+
+<p align="center">
+<a href="https://github.com/Devanand-official" target="_blank">
+<img height="40" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a> &nbsp;
+
+<a href="https://www.linkedin.com/in/your-link" target="_blank">
+<img height="40" src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a> &nbsp;
+
+<a href="mailto:your-email@gmail.com">
+<img height="40" src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a> &nbsp;
+
+<a href="https://your-portfolio-link.com" target="_blank">
+<img height="40" src="https://img.shields.io/badge/Portfolio-24292f?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a> &nbsp;
+
+<a href="https://your-resume-link.pdf" target="_blank">
+<img height="40" src="https://img.shields.io/badge/Resume-005f73?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a> &nbsp;
+</p>
+
+---
+
+<p align="center">
+<a href="https://github.com/Devanand-official">
+<img height="45" src="https://cdn.simpleicons.org/github/ffffff" style="background:#000;padding:10px;border-radius:50%;"/>
+</a> &nbsp;
+
+<a href="https://www.linkedin.com/in/your-link">
+<img height="45" src="https://cdn.simpleicons.org/linkedin/ffffff" style="background:#0077B5;padding:10px;border-radius:50%;"/>
+</a> &nbsp;
+
+<a href="mailto:your-email@gmail.com">
+<img height="45" src="https://cdn.simpleicons.org/gmail/ffffff" style="background:#D14836;padding:10px;border-radius:50%;"/>
+</a> &nbsp;
+
+<a href="https://your-portfolio-link.com">
+<img height="45" src="https://cdn.simpleicons.org/googlechrome/ffffff" style="background:#4285F4;padding:10px;border-radius:50%;"/>
+</a> &nbsp;
+
+<a href="https://your-resume-link.pdf">
+<img height="45" src="https://cdn.simpleicons.org/readthedocs/ffffff" style="background:#0A192F;padding:10px;border-radius:50%;"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+<a href="https://github.com/Devanand-official" target="_blank">
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+</a> &nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/your-link" target="_blank">
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+</a> &nbsp;&nbsp;
+
+<a href="mailto:your-email@gmail.com">
+<img height="42" src="https://cdn.simpleicons.org/gmail/white"/>
+</a> &nbsp;&nbsp;
+
+<a href="https://your-portfolio-link.com" target="_blank">
+<img height="42" src="https://cdn.simpleicons.org/firefox-browser/white"/>
+</a> &nbsp;&nbsp;
+
+<a href="https://your-resume-link.pdf" target="_blank">
+<img height="42" src="https://cdn.simpleicons.org/readthedocs/white"/>
+</a>
+</p>
+
+---
+
