@@ -149,6 +149,33 @@
 <img height="48px" src="https://cdn.simpleicons.org/ejs/8BC34A" alt="EJS"/>
 <img height="48px" src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva"/>
 
+---
+
+<p align="left">
+
+<!-- Frontend -->
+<img height="48px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5"/>
+<img height="48px" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3"/>
+<img height="48px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript"/>
+<img height="48px" src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap"/>
+<img height="48px" src="https://cdn.simpleicons.org/jquery/0769AD" alt="jQuery"/>
+<img height="48px" src="https://cdn.simpleicons.org/react/61DAFB" alt="React"/>
+<img height="48px" src="https://cdn.simpleicons.org/ejs/8BC34A" alt="EJS"/>
+
+<!-- Backend -->
+<img height="48px" src="https://cdn.simpleicons.org/node.js/339933" alt="NodeJS"/>
+<img height="48px" src="https://cdn.simpleicons.org/express/000000" alt="Express.js"/>
+<img height="48px" src="https://cdn.simpleicons.org/nodemon/76D04B" alt="Nodemon"/>
+<img height="48px" src="https://cdn.simpleicons.org/npm/CB3837" alt="NPM"/>
+<img height="48px" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL"/>
+
+<!-- Tools -->
+<img height="48px" src="https://cdn.simpleicons.org/git/F05032" alt="Git"/>
+<img height="48px" src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub"/>
+<img height="48px" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VS Code"/>
+<img height="48px" src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva"/>
+
+</p>
 
 
 ---
