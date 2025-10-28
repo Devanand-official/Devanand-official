@@ -7,7 +7,7 @@
 
 <img align="right" width="300" src="./assets/Web-Developer.gif" alt="Animation" />
 
-<div align="center">
+<div align="right">
 
 ### **I'm a Web Developer 🖥️**
   
