@@ -5,7 +5,7 @@
 </p>
 <hr/>
 
-<img align="right" width="260" src="./assets/Web-Developer.gif" alt="Animation" />
+<img align="right" width="300" src="./assets/Web-Developer.gif" alt="Animation" />
 
 <div align="center">
 
