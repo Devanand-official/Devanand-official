@@ -18,7 +18,7 @@
 
 ### 🧠 I’m looking for help with:
 
-‣ Advanced React patterns and mastering Back-End tech to become Full-Stack Developer
+‣ Advanced React pattern and mastering Back-End tech to become Full-Stack Developer
 
 ### 📚 I’m currently learning:
 
