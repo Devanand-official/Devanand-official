@@ -184,3 +184,31 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="55" />
   
 ---
+
+<p align="left">
+
+<!-- Frontend -->
+<img width="48px" height="48px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5"/>
+<img width="48px" height="48px" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3"/>
+<img width="48px" height="48px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript"/>
+<img width="48px" height="48px" src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap"/>
+<img width="48px" height="48px" src="https://cdn.simpleicons.org/jquery/0769AD" alt="jQuery"/>
+<img width="48px" height="48px" src="https://cdn.simpleicons.org/react/61DAFB" alt="React"/>
+<img width="48px" height="48px" src="https://cdn.simpleicons.org/ejs/8BC34A" alt="EJS"/>
+
+<!-- Backend -->
+<img width="48px" height="48px" src="https://cdn.simpleicons.org/node.js/339933" alt="NodeJS"/>
+<img width="48px" height="48px" src="https://cdn.simpleicons.org/express/FFFFFF" alt="Express.js"/>
+<img width="48px" height="48px" src="https://cdn.simpleicons.org/nodemon/76D04B" alt="Nodemon"/>
+<img width="48px" height="48px" src="https://cdn.simpleicons.org/npm/CB3837" alt="NPM"/>
+<img width="48px" height="48px" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL"/>
+
+<!-- Tools -->
+<img width="48px" height="48px" src="https://cdn.simpleicons.org/git/F05032" alt="Git"/>
+<img width="48px" height="48px" src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub"/>
+<img width="48px" height="48px" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VSCode"/>
+<img width="48px" height="48px" src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva"/>
+
+</p>
+
+---
