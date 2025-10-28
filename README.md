@@ -1,5 +1,5 @@
 # 💫 Hi 👋 I'm *Devanand* 😎
-![](https://komarev.com/ghpvc/?username=Devanand-official&style=for-the-badgebase=200)
+![](https://komarev.com/ghpvc/?username=Devanand-official&base=200&style=for-the-badge)
 
 <img src="./assets/Banner.png" /> <hr/>
 
