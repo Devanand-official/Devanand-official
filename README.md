@@ -70,3 +70,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Devanand-official&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-1abc9c?style=for-the-badge">
+</p>
+
+[![](https://visitcount.itsvg.in/api?id=Devanand-official&label=Visitors&color=1)](https://visitcount.itsvg.in)
