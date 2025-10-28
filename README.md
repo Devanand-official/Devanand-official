@@ -156,6 +156,7 @@
 <!-- Frontend -->
 <img height="48px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5"/>
 <img height="48px" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="55" />
 <img height="48px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript"/>
 <img height="48px" src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap"/>
 <img height="48px" src="https://cdn.simpleicons.org/jquery/0769AD" alt="jQuery"/>
@@ -173,10 +174,12 @@
 <img height="48px" src="https://cdn.simpleicons.org/git/F05032" alt="Git"/>
 <img height="48px" src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub"/>
 <img height="48px" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" />
 <img height="48px" src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva"/>
 
 </p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="55" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="55" />
+  
 ---
