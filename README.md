@@ -106,7 +106,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=00F7FF&center=true&vCenter=true&width=250&lines=TECH+STACK" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=00F7FF&center=true&vCenter=true&width=250&lines=💻+TECH+STACK" />
 </p>
 
 <p align="center">
