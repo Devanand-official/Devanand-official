@@ -111,10 +111,10 @@
 
 <p align="center">
   <img src="https://img.icons8.com/color/96/html-5.png" width="60" />
-  <img src="https://img.icons8.com/color/96/css3.png" width="45" />
-  <img src="https://img.icons8.com/color/96/bootstrap.png" width="45" />
-  <img src="https://img.icons8.com/color/96/javascript.png" width="45" />
-  <img src="https://img.icons8.com/color/96/react-native.png" width="45" />
+  <img src="https://img.icons8.com/color/96/css3.png" width="60" />
+  <img src="https://img.icons8.com/color/96/bootstrap.png" width="60" />
+  <img src="https://img.icons8.com/color/96/javascript.png" width="60" />
+  <img src="https://img.icons8.com/color/96/react-native.png" width="60" />
 </p>
 
 ---
