@@ -10,32 +10,26 @@
 
 ### 🛠️ I’m currently working on:
 
-<br>
-‣ Building interactive Front-End projects and experimenting with dynamic Web Apps<br><br>
+‣ Building interactive Front-End projects and experimenting with dynamic Web Apps
 
 ### 🤝 I’m looking to collaborate on:
 
-<br>
-‣ Open-Source Front-End Projects, UI/UX improvements, and fun JavaScript challenges<br><br>
+‣ Open-Source Front-End Projects, UI/UX improvements, and fun JavaScript challenges
 
 ### 🧠 I’m looking for help with:
 
-<br>
-‣ Advanced React patterns, and mastering Back-End tech to become Full-Stack Developer<br><br>
+‣ Advanced React patterns, and mastering Back-End tech to become Full-Stack Developer
 
 ### 📚 I’m currently learning:
 
-<br>
-‣ PostgreSQL, APIs, and modern Web Development best practices<br><br>
+‣ PostgreSQL, APIs, and modern Web Development best practices
 
 ### 💬 Ask me about:
 
-<br>
-‣ HTML5, CSS3, JavaScript, Responsive Design and Git/GitHub<br><br>
+‣ HTML5, CSS3, JavaScript, Responsive Design and Git/GitHub
 
 ### ⚡ Fun fact:
 
-<br>
 ‣ I believe deploying a project feels like launching a mini-rocket into the internet.
 
 ## 🌐 Socials:
