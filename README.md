@@ -1,7 +1,6 @@
 # 💫 Hi 👋 I'm *Devanand* 😎
 
-<img src="./assets/Banner.png" /> 
-***
+<img src="./assets/Banner.png" /> <hr/>
 
 ### **I'm a Web Developer 🖥️**
 
