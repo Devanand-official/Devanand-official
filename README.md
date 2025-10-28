@@ -108,8 +108,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-
-<!-- <img height="55px" src="https://cdn.simpleicons.org/node.js/339933" alt="NodeJS"/> -->
-<!-- <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM"/> -->
-
