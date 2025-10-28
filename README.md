@@ -6,7 +6,7 @@
 
 <img align="right" width="300" src="./assets/Web-Developer.gif" alt="Animation" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-1abc9c?style=for-the-badge)](https://devanand.is-a.dev)<br><br> 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-1abc9c?style=for-the-badge)](https://devanand.is-a.dev)
 
 ### 🛠️ I’m currently working on:
 
