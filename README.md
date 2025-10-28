@@ -5,7 +5,6 @@
 </p>
 <hr/>
 
-<img align="right" width="300" src="./assets/Web-Developer.gif" alt="Animation" />
 
 <div align="center">
 
@@ -14,6 +13,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-1abc9c?style=for-the-badge)](https://devanand.is-a.dev)
 
 ![](https://komarev.com/ghpvc/?username=Devanand-official&style=for-the-badge)
+
+
+<img align="right" width="300" src="./assets/Web-Developer.gif" alt="Animation" />
 
 </div>
 
