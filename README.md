@@ -1,10 +1,12 @@
 <h1 align="center">💫 Hi 👋 I'm  <em>Devanand</em>  😎</h1>
 
 <p align="center">
+  
   <img src="./assets/Banner.png" alt="Banner"/>
+  
 </p>
-<hr/>
 
+<hr/>
 
 <div align="center">
 
@@ -14,12 +16,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Devanand-official&style=for-the-badge)
 
-
 <img align="right" width="300" src="./assets/Web-Developer.gif" alt="Animation" />
 
 </div>
-
-
 
 ### 🛠️ I’m currently working on:
 
@@ -58,9 +57,13 @@
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=Devanand-official&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
 <br/><br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Devanand-official&theme=dark&hide_border=false)
+
 <br/><br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devanand-official&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div/>
