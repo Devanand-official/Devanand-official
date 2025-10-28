@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi 👋 I'm *Devanand*
 
 <img align="right" width="300" src="/assets/Web Developer.gif" alt="Animation">
 
