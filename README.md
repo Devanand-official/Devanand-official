@@ -108,3 +108,39 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
+<p align="center">
+
+<!-- GitHub -->
+<a href="https://github.com/Devanand-official" target="_blank">
+  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
+</a> &nbsp;&nbsp;&nbsp;
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/yourusername/" target="_blank">
+  <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+</a> &nbsp;&nbsp;&nbsp;
+
+<!-- Gmail -->
+<a href="mailto:youremail@gmail.com" target="_blank">
+  <img height="45px" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail"/>
+</a> &nbsp;&nbsp;&nbsp;
+
+<!-- Portfolio Website -->
+<a href="https://your-portfolio-link.com" target="_blank">
+  <img height="45px" src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Portfolio"/>
+</a> &nbsp;&nbsp;&nbsp;
+
+<!-- Resume Download -->
+<a href="https://your-resume-link.pdf" target="_blank">
+  <img height="45px" src="https://cdn.simpleicons.org/adobeacrobat/DC0A2D" alt="Resume"/>
+</a> &nbsp;&nbsp;&nbsp;
+
+<!-- Personal Website (if separate from portfolio) -->
+<a href="https://your-website-link.com" target="_blank">
+  <img height="45px" src="https://cdn.simpleicons.org/internetexplorer/0078D7" alt="Website"/>
+</a>
+
+</p>
+
+---
