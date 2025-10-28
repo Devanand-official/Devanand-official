@@ -4,12 +4,13 @@
 ![](https://komarev.com/ghpvc/?username=Devanand-official&style=for-the-badge)
 
 </div>
+
 <img src="./assets/Banner.png" /> <hr/>
 
 <div align="center">
 
 ### **I'm a Web Developer 🖥️**
-<br>
+<br/>
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-1abc9c?style=for-the-badge)](https://devanand.is-a.dev)
 
@@ -52,8 +53,8 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Devanand-official&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Devanand-official&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Devanand-official&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Devanand-official&theme=dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devanand-official&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div/>
