@@ -194,14 +194,14 @@
 <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"/>
 <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery"/>
 <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
-<img height="48px" src="https://cdn.simpleicons.org/ejs/8BC34A" alt="EJS"/>
+<img height="55px" src="https://cdn.simpleicons.org/ejs/8BC34A" alt="EJS"/>
 
 <!-- Backend -->
 <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS"/>
-<img height="48px" src="https://cdn.simpleicons.org/node.js/339933" alt="NodeJS"/>
+<img height="55px" src="https://cdn.simpleicons.org/node.js/339933" alt="NodeJS"/>
 <img height="55px" src="https://cdn.simpleicons.org/express/FFFFFF" alt="Express.js"/>
 <img height="55px" src="https://cdn.simpleicons.org/nodemon/76D04B" alt="Nodemon"/>
-<img height="48px" src="https://cdn.simpleicons.org/npm/CB3837" alt="NPM"/>
+<img height="55px" src="https://cdn.simpleicons.org/npm/CB3837" alt="NPM"/>
 <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM"/>
 <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
 
