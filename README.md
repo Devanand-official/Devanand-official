@@ -118,47 +118,24 @@
 </p>
 
 ---
-<div>
-<h3 align="center">🚀 Tech Stack I Use</h3>
 
-<style>
-.icons-container img {
-  margin: 10px;
-  transition: transform 0.25s ease, filter 0.25s ease;
-  filter: drop-shadow(0 0 5px rgba(3, 246, 243, .4));
-}
-.icons-container img:hover {
-  transform: scale(1.18);
-  filter: drop-shadow(0 0 12px rgba(3, 246, 243, 1));
-}
-</style>
+# 💻 Tech Stack
 
-<!-- Frontend -->
-<h4 align="center">🎨 Frontend</h4>
-<p align="center" class="icons-container">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" />
-</p>
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![jQuery](https://skillicons.dev/icons?i=jquery)
+![React](https://skillicons.dev/icons?i=react)
+![NPM](https://skillicons.dev/icons?i=npm)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Nodemon](https://skillicons.dev/icons?i=nodemon)
+![Express.js](https://skillicons.dev/icons?i=express)
+![EJS](https://skillicons.dev/icons?i=ejs)
+![Postgres](https://skillicons.dev/icons?i=postgres)
+![Canva](https://skillicons.dev/icons?i=canva)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
 
-<!-- Backend -->
-<h4 align="center">⚙️ Backend</h4>
-<p align="center" class="icons-container">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="55" />
-</p>
-
-<!-- Tools -->
-<h4 align="center">🛠 Tools</h4>
-<p align="center" class="icons-container">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" />
-</p>
-
-<div/>
 
 ---
