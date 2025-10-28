@@ -207,7 +207,7 @@
 
 <!-- Tools -->
 <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
-<img height="48px" src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub"/>
+<img height="55px" src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub"/>
 <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/>
 <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva"/>
 
