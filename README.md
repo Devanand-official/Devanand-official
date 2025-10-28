@@ -219,10 +219,11 @@
 <!-- <p align="center" style="display:flex;gap:15;justify-content:center;"> -->
 
 <!-- LinkedIn -->
+<p align="center" style="display:flex;gap:15;justify-content:center;">
 <a href="https://www.linkedin.com/in/yourusername/" target="_blank"  style="text-decoration:none;">
 <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
 </a>&nbsp;&nbsp;&nbsp;
-<p align="center" style="display:flex;gap:15;justify-content:center;">
+
 <a href="https://github.com/Devanand-official"  style="text-decoration:none;">
 <img height="45" src="https://cdn.simpleicons.org/github/ffffff" style="background:#000;padding:10px;border-radius:50%;"/>
 </a>
