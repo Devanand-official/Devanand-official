@@ -118,7 +118,7 @@
 </p>
 
 ---
-
+<div>
 <h3 align="center">🚀 Tech Stack I Use</h3>
 
 <style>
@@ -159,5 +159,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" />
 </p>
 
+<div/>
 
 ---
