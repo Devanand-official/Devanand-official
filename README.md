@@ -5,6 +5,8 @@
 </p>
 <hr/>
 
+<img align="right" width="300" src="./assets/Web-Developer.gif" alt="Animation" />
+
 <div align="center">
 
 ### **I'm a Web Developer 🖥️**
@@ -15,7 +17,7 @@
 
 </div>
 
-<img align="right" width="300" src="./assets/Web-Developer.gif" alt="Animation" />
+
 
 ### 🛠️ I’m currently working on:
 
