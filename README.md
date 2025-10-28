@@ -79,113 +79,6 @@
 ---
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,git,github,vscode" />
-</p>
-
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=00F7FF&center=true&vCenter=true&width=250&lines=💻+TECH+STACK" />
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/color/96/html-5.png" width="60" />
-  <img src="https://img.icons8.com/color/96/css3.png" width="60" />
-  <img src="https://img.icons8.com/color/96/bootstrap.png" width="60" />
-  <img src="https://img.icons8.com/color/96/javascript.png" width="60" />
-  <img src="https://img.icons8.com/color/96/react-native.png" width="60" />
-</p>
-
----
-
-# 💻 Tech Stack
-
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![jQuery](https://skillicons.dev/icons?i=jquery)
-![React](https://skillicons.dev/icons?i=react)
-![NPM](https://skillicons.dev/icons?i=npm)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Nodemon](https://skillicons.dev/icons?i=nodemon)
-![Express.js](https://skillicons.dev/icons?i=express)
-![EJS](https://skillicons.dev/icons?i=ejs)
-![Postgres](https://skillicons.dev/icons?i=postgres)
-![Canva](https://skillicons.dev/icons?i=canva)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-
-![VS Code](https://skillicons.dev/icons?i=vscode)
-<!-- Additional icons not available in skillicons -->
-<img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" />
-<img src="https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logo=ejs&logoColor=black" />
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-
-<!-- Additional icons matching Skillicons style -->
-
-<img height="48px" src="https://cdn.simpleicons.org/nodemon/76D04B" alt="Nodemon"/>
-<img height="48px" src="https://cdn.simpleicons.org/ejs/8BC34A" alt="EJS"/>
-<img height="48px" src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva"/>
-
----
-
-<p align="left">
-
-<!-- Frontend -->
-<img height="48px" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5"/>
-<img height="48px" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="55" />
-<img height="48px" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript"/>
-<img height="48px" src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap"/>
-<img height="48px" src="https://cdn.simpleicons.org/jquery/0769AD" alt="jQuery"/>
-<img height="48px" src="https://cdn.simpleicons.org/react/61DAFB" alt="React"/>
-<img height="48px" src="https://cdn.simpleicons.org/ejs/8BC34A" alt="EJS"/>
-
-<!-- Backend -->
-<img height="48px" src="https://cdn.simpleicons.org/node.js/339933" alt="NodeJS"/>
-<img height="48px" src="https://cdn.simpleicons.org/express/000000" alt="Express.js"/>
-<img height="48px" src="https://cdn.simpleicons.org/express/FFFFFF" alt="Express.js"/>
-<img height="48px" src="https://cdn.simpleicons.org/nodemon/76D04B" alt="Nodemon"/>
-<img height="48px" src="https://cdn.simpleicons.org/npm/CB3837" alt="NPM"/>
-<img height="48px" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL"/>
-
-<!-- Tools -->
-<img height="48px" src="https://cdn.simpleicons.org/git/F05032" alt="Git"/>
-<img height="48px" src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub"/>
-<img height="48px" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" />
-<img height="48px" src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva"/>
-
-</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="55" />
-  
----
-
-<p align="center">
 
 <!-- Frontend -->
 <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/> &nbsp;&nbsp;&nbsp;
@@ -194,24 +87,29 @@
 <img height="63px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"/> &nbsp;&nbsp;&nbsp;
 <img height="57px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery"/> &nbsp;&nbsp;&nbsp;
 <img height="57px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/> &nbsp;&nbsp;&nbsp;
-<img height="63px" src="https://cdn.simpleicons.org/ejs/8BC34A" alt="EJS"/> &nbsp;&nbsp;&nbsp;
+<img height="63px" src="https://cdn.simpleicons.org/ejs/8BC34A" alt="EJS"/> 
+&nbsp;&nbsp;&nbsp;
 
 <!-- Backend -->
-<img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS"/>
+<img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS"/> &nbsp;&nbsp;&nbsp;
 <!-- <img height="55px" src="https://cdn.simpleicons.org/node.js/339933" alt="NodeJS"/> -->
-<img height="63px" src="https://cdn.simpleicons.org/express/FFFFFF" alt="Express.js"/>
+<img height="63px" src="https://cdn.simpleicons.org/express/FFFFFF" alt="Express.js"/> 
+&nbsp;&nbsp;&nbsp;
 <img height="55px" src="https://cdn.simpleicons.org/nodemon/76D04B" alt="Nodemon"/>
+&nbsp;&nbsp;&nbsp;
 <img height="55px" src="https://cdn.simpleicons.org/npm/CB3837" alt="NPM"/>
+ &nbsp;&nbsp;&nbsp;
 <!-- <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM"/> -->
 <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
-
+ &nbsp;&nbsp;&nbsp;
+ 
 <!-- Tools -->
-<img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
-<img height="55px" src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub"/>
-<img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/>
-<img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva"/>
+<img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/> &nbsp;&nbsp;&nbsp;
+<img height="55px" src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub"/> 
+&nbsp;&nbsp;&nbsp;
+<img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/> &nbsp;&nbsp;&nbsp;
+<img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva"/> &nbsp;&nbsp;&nbsp;
 
 </p>
-
 
 ---
