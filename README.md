@@ -1,5 +1,5 @@
 # 💫 Hi 👋 I'm *Devanand* 😎
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Devanand-official&style=for-the-badge)
 
 <img src="./assets/Banner.png" /> <hr/>
 
