@@ -91,7 +91,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <!-- Backend -->
-<!-- <img height="55px" src="https://cdn.simpleicons.org/node.js/339933" alt="NodeJS"/> -->
+
 <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS"/> &nbsp;&nbsp;&nbsp;
 <img height="63px" src="https://cdn.simpleicons.org/express/FFFFFF" alt="Express.js"/> 
 &nbsp;&nbsp;&nbsp;
@@ -99,7 +99,6 @@
 &nbsp;&nbsp;&nbsp;
 <img height="55px" src="https://cdn.simpleicons.org/npm/CB3837" alt="NPM"/>
  &nbsp;&nbsp;&nbsp;
-<!-- <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM"/> -->
 <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
  &nbsp;&nbsp;&nbsp;
  
@@ -111,5 +110,6 @@
 <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva"/> &nbsp;&nbsp;&nbsp;
 
 </p>
-
+<!-- <img height="55px" src="https://cdn.simpleicons.org/node.js/339933" alt="NodeJS"/> -->
+<!-- <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM"/> -->
 ---
