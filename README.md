@@ -166,6 +166,7 @@
 <!-- Backend -->
 <img height="48px" src="https://cdn.simpleicons.org/node.js/339933" alt="NodeJS"/>
 <img height="48px" src="https://cdn.simpleicons.org/express/000000" alt="Express.js"/>
+<img height="48px" src="https://cdn.simpleicons.org/express/FFFFFF" alt="Express.js"/>
 <img height="48px" src="https://cdn.simpleicons.org/nodemon/76D04B" alt="Nodemon"/>
 <img height="48px" src="https://cdn.simpleicons.org/npm/CB3837" alt="NPM"/>
 <img height="48px" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL"/>
