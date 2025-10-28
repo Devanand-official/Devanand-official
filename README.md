@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img align="right" width="370" height="290" src="https://lottie.host/embed/ebaf995d-9057-45c9-9e44-00c982f3186b/TECpgeZa5H.lottie">
+<img align="right" width="370" height="290" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
 
 🚀 Check out my Portfolio<br><br>[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-1abc9c?style=for-the-badge)](https://devanand.is-a.dev)<br><br>🛠️ I’m currently working on:<br>‣ Building interactive Front-End projects and experimenting with dynamic Web Apps<br><br>🤝 I’m looking to collaborate on:<br>‣ Open-Source Front-End Projects, UI/UX improvements, and fun JavaScript challenges<br><br>🧠 I’m looking for help with:<br>‣ Advanced React patterns, and mastering Back-End tech to become Full-Stack Developer<br><br>📚 I’m currently learning:<br>‣ PostgreSQL, APIs, and modern Web Development best practices<br><br>💬 Ask me about:<br>‣ HTML5, CSS3, JavaScript, Responsive Design and Git/GitHub<br><br>⚡ Fun fact:<br>‣ I believe deploying a project feels like launching a mini-rocket into the internet.
 
