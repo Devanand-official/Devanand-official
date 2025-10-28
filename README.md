@@ -1,4 +1,5 @@
 # 💫 Hi 👋 I'm *Devanand* 😎
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
 <img src="./assets/Banner.png" /> <hr/>
 
