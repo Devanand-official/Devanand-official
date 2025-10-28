@@ -1,7 +1,9 @@
 <h1 align="center">💫 Hi 👋 I'm  <em>Devanand</em>  😎</h1>
-
+<p align="center">
+  
 ![](https://komarev.com/ghpvc/?username=Devanand-official&style=for-the-badge)
 
+</p>
 <img src="./assets/Banner.png" /> <hr/>
 
 ### **I'm a Web Developer 🖥️**
