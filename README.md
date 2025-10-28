@@ -225,7 +225,7 @@
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Devanand-official"  style="text-decoration:none;">
-<img height="45" src="https://cdn.simpleicons.org/github/ffffff" style="background:#000;padding:10px;border-radius:50%;"/>
+<img height="45" src="https://cdn.simpleicons.org/github/ffffff" style="background:#000;padding:10;border-radius:50;"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:youremail@gmail.com" target="_blank"  style="text-decoration:none;">
