@@ -189,12 +189,12 @@
 
 <!-- Frontend -->
 <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/> &nbsp;&nbsp;&nbsp;
-<img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
-<img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-<img height="63px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"/>
-<img height="57px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery"/>
-<img height="57px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
-<img height="63px" src="https://cdn.simpleicons.org/ejs/8BC34A" alt="EJS"/>
+<img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/> &nbsp;&nbsp;&nbsp;
+<img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/> &nbsp;&nbsp;&nbsp;
+<img height="63px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"/> &nbsp;&nbsp;&nbsp;
+<img height="57px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery"/> &nbsp;&nbsp;&nbsp;
+<img height="57px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/> &nbsp;&nbsp;&nbsp;
+<img height="63px" src="https://cdn.simpleicons.org/ejs/8BC34A" alt="EJS"/> &nbsp;&nbsp;&nbsp;
 
 <!-- Backend -->
 <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS"/>
