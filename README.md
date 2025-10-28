@@ -76,6 +76,8 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
@@ -89,6 +91,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,git,github,vscode" />
 </p>
 
 
