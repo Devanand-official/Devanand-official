@@ -219,18 +219,12 @@
 <p align="center" style="display:flex;gap:15px;justify-content:center;">
 
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/yourusername/" target="_blank">
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
-</a> 
-&nbsp;&nbsp;&nbsp;
-
-<!-- GITHUB -->
-<p align="center">
+<a href="https://www.linkedin.com/in/yourusername/" target="_blank"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+</a>&nbsp;&nbsp;&nbsp;<p align="center">
 <a href="https://github.com/Devanand-official">
 <img height="45" src="https://cdn.simpleicons.org/github/ffffff" style="background:#000;padding:10px;border-radius:50%;"/>
 </a>&nbsp;&nbsp;&nbsp;<a href="mailto:youremail@gmail.com" target="_blank"><img height="45" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp;<a href="https://your-portfolio-link.com" target="_blank"><img height="45" src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Portfolio"/></a>&nbsp;&nbsp;&nbsp;<a href="https://your-resume-link.pdf" target="_blank">
 <img height="42" src="https://cdn.simpleicons.org/readthedocs/white"/>
-</a>
-</p>
+</a></p>
 
 ---
