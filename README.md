@@ -176,6 +176,7 @@
 <img height="48px" src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva"/>
 
 </p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" />
 
 
 ---
