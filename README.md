@@ -1,6 +1,9 @@
 <h1 align="center">💫 Hi 👋 I'm  <em>Devanand</em>  😎</h1>
 
-<img src="./assets/Banner.png" /> <hr/>
+<p align="center">
+  <img src="./assets/Banner.png" alt="Banner"/>
+</p>
+<hr/>
 
 <div align="center">
 
