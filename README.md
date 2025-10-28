@@ -5,7 +5,6 @@
 <div align="center">
 
 ### **I'm a Web Developer 🖥️**
-<br/>
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-1abc9c?style=for-the-badge)](https://devanand.is-a.dev)
 
