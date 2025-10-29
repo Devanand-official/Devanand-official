@@ -10,6 +10,18 @@
 
 <div align="center">
 
+<p align="center" style="font-size:28px; font-weight:bold;">
+I'm a Web Developer 🖥️
+</p>
+
+<h3 align="center"><strong><font size="5">I'm a Web Developer 🖥️</font></strong></h3>
+
+<h3 align="center"><strong><span style="font-size: 26px;">I'm a Web Developer 🖥️</span></strong></h3>
+
+## I'm a Web Developer 🖥️
+
+### I'm a Web Developer 🖥️
+
 ### **I'm a Web Developer 🖥️**
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-1abc9c?style=for-the-badge)](https://devanand.is-a.dev)
