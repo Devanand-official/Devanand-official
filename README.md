@@ -151,5 +151,6 @@
 <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/>
 <img height="55px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Microsoft_Clipchamp_%282022%E2%80%932025%29.svg"  alt="Clipchamp"/>
 
+<img height="55px" src="./assets/Clipchamp.png" alt="Clipchamp"/>
 
 </p>
