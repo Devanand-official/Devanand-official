@@ -50,7 +50,10 @@
 
 <p align="center">
 
-<a href="http://google.com/" target="_blank">Hello, google!</a>
+plugins:
+  - privacy:
+      links_attr_map:
+        target: _blank
 
 <a href="https://www.linkedin.com/in/devanand-online/" target="_blank" rel="noopener"> 
 <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/></a>
