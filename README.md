@@ -140,9 +140,16 @@
 
 ---
 <p align="center">
-  
-<img src="https://res.cdn.office.net/officehub/icons/clipchamp_fm_96x96.png" height="55" alt="Clipchamp" />
 
-<img src="https://res.cdn.office.net/officehub/icons/clipchamp_fm_144x144.png" height="55" alt="Clipchamp" />
+  <img height="55px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Microsoft_Clipchamp_%282022%E2%80%932025%29.svg" alt="Clipchamp"/>
+
+<img height="55px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Microsoft_Clipchamp_%282022%E2%80%932025%29.svg" style="filter:invert(100%);opacity:0.85;" alt="Clipchamp"/>
+
+<!-- Tools -->
+<img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
+<img height="55px" src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub"/>
+<img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/>
+<img height="55px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Microsoft_Clipchamp_%282022%E2%80%932025%29.svg" style="filter:invert(100%);opacity:0.85;" alt="Clipchamp"/>
+
 
 </p>
