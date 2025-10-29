@@ -50,22 +50,19 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/devanand-online/"> 
-  
-[go](https://www.linkedin.com/in/devanand-online/){:target="_blank" rel="noopener"}
-  
+<a href="https://www.linkedin.com/in/devanand-online/" target="_blank" rel="noopener"> 
 <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/></a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/Devanand-official">
+<a href="https://github.com/Devanand-official" target="_blank" rel="noopener">
 <img height="45" src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub"/></a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="mailto:s.devanand.official@gmail.com" target="_blank">
+<a href="mailto:s.devanand.official@gmail.com" target="_blank" rel="noopener">
 <img height="45" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail"/></a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://devanand.is-a.dev/" target="_blank">
+<a href="https://devanand.is-a.dev/" target="_blank" rel="noopener">
 <img height="45" src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Portfolio"/></a>
 &nbsp;&nbsp;&nbsp;
 
