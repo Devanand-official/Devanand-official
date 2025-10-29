@@ -113,7 +113,7 @@
 &nbsp;&nbsp;&nbsp;
 <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/> 
 &nbsp;&nbsp;&nbsp;
-<img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva"/> 
+<img height="55px" src="./assets/Canva.png" alt="Canva"/> 
 &nbsp;&nbsp;&nbsp;
 <img height="55px" src="./assets/Clipchamp.png" alt="Clipchamp"/>
 
