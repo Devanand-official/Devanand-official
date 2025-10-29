@@ -140,11 +140,8 @@
 
 ---
 
-<img src="https://cdn.simpleicons.org/clipchamp/FFFFFF" height="55" alt="Clipchamp" />
+<img src="https://res.cdn.office.net/officehub/icons/clipchamp_fm_96x96.png" height="55" alt="Clipchamp" />
 
-<img src="https://cdn.simpleicons.org/clipchamp/6B4DFE" height="55" alt="Clipchamp" />
-
-<img src="https://cdn.simpleicons.org/clipchamp/00FF00" height="55" alt="Clipchamp" />
-
+<img src="https://res.cdn.office.net/officehub/icons/clipchamp_fm_144x144.png" height="55" alt="Clipchamp" />
 
 
