@@ -111,8 +111,10 @@
 <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/> &nbsp;&nbsp;&nbsp;
 <img height="55px" src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub"/> 
 &nbsp;&nbsp;&nbsp;
-<img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/> &nbsp;&nbsp;&nbsp;
-<img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva"/> &nbsp;&nbsp;&nbsp;
+<img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/> 
+&nbsp;&nbsp;&nbsp;
+<img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva"/> 
+&nbsp;&nbsp;&nbsp;
 <img height="55px" src="./assets/Clipchamp.png" alt="Clipchamp"/>
 
 </p>
