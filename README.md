@@ -17,11 +17,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=I'm+Dev+Anand;Full+Stack+Developer+in+Progress;JavaScript+Fanboy+⚡;React+Lover+💙" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=I'm+Dev+Anand;JavaScript+Fanboy+⚡;React+Lover+💙" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=28&duration=2000&pause=900&color=00ff00&center=true&vCenter=true&width=600&lines=I'm+Dev+Anand;Web+Developer+🖥️;Learning+NodeJS+%26+PostgreSQL;Building+Cool+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=28&duration=2000&pause=1000&color=00ff00&center=true&vCenter=true&width=600&lines=I'm+DevAnand+😎;Web+Developer+🖥️;Learning+APIs+%26+PostgreSQL;Building+Cool+Projects+🚀;Full+Stack+Developer+in+Progress" />
 </p>
 
 
