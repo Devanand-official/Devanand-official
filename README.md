@@ -12,6 +12,23 @@
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=I'm%20a%20Web%20Developer%20🖥️&width=1200&height=200">
 </p>
 
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=I%27m%20a%20Web%20Developer%20🖥️&width=900&height=200"/>
+</p>
+
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=I%27m%20a%20Web%20Developer%20🖥️&color=pink&width=900&height=200"/>
+</p>
+
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=I%27m%20a%20Web%20Developer%20🖥️&color=blue&width=900&height=200"/>
+</p>
+
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=I%27m%20a%20Web%20Developer%20🖥️&color=green&width=900&height=200"/>
+</p>
+
+
 <div align="center">
 
 <h3> 
