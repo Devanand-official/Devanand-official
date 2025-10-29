@@ -139,9 +139,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
+<p align="center">
+  
 <img src="https://res.cdn.office.net/officehub/icons/clipchamp_fm_96x96.png" height="55" alt="Clipchamp" />
 
 <img src="https://res.cdn.office.net/officehub/icons/clipchamp_fm_144x144.png" height="55" alt="Clipchamp" />
 
-
+</p>
