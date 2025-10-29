@@ -50,7 +50,7 @@
 
 <p align="center" style="display:flex;gap:15;justify-content:center;">
 
-<a href="https://www.linkedin.com/in/devanand-online/" target="_blank">
+<a href="https://www.linkedin.com/in/devanand-online/">
 <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/></a>
 &nbsp;&nbsp;&nbsp;
 
