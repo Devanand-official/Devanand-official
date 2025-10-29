@@ -12,7 +12,7 @@
 
 ## I'm a Web Developer 🖥️
 
-<h3 align="center"><strong><font size="7">I'm a Web Developer 🖥️</font></strong></h3>
+<h3 font-size:"20">I'm a Web Developer 🖥️</h3>
 
 ### I'm a Web Developer 🖥️
   
