@@ -10,7 +10,7 @@
 
 <p align="center">
   
-  <img src="./assets/Hacker.png" alt="Hacker"/>
+  <img src="./assets/Hacker.gif" alt="Hacker"/>
   
 </p>
 
