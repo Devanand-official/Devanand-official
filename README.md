@@ -12,11 +12,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=600&color=00FF00&center=true&vCenter=true&width=750&height=60&lines=I'm+Devanand+😎|;Web+Developer+💻|;🌐+Learning+APIs+🔗+%26+PostgreSQL+🐘|;Building+Cool+Projects+🚀|;Full+Stack+Developer+in+Progress+🌱|" />
 </p>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=28&duration=2000&pause=1000&color=00ff00&center=true&vCenter=true&width=600&lines=I'm+Devanand+😎|;Web+Developer+💻|;🌐+Learning+APIs+🔗+%26+PostgreSQL+🐘|;Building+Cool+Projects+🚀|;Full+Stack+Developer+in+Progress+🌱|" />
-</p>
-
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-1abc9c?style=for-the-badge)](https://devanand.is-a.dev)
