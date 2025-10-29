@@ -59,23 +59,23 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/devanand-online/" target="_blank" rel="noopener"> 
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/></a>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/></a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Devanand-official" target="_blank" rel="noopener">
-<img height="45" src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub"/></a>
+<img height="50" src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub"/></a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:s.devanand.official@gmail.com" target="_blank" rel="noopener">
-<img height="45" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail"/></a>
+<img height="50" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail"/></a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://devanand.is-a.dev/" target="_blank" rel="noopener">
-<img height="45" src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Portfolio"/></a>
+<img height="50" src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Portfolio"/></a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://devanand.is-a.dev/assets/Devanand_CV.pdf" target="_blank" rel="noopener">
-<img height="42" src="https://cdn.simpleicons.org/readthedocs/white"/></a>
+<img height="50" src="https://cdn.simpleicons.org/readthedocs/white"/></a>
 
 </p>
 
