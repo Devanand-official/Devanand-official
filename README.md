@@ -9,6 +9,19 @@
 <hr/>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=900&color=00FF00&center=true&vCenter=true&width=650&height=60&lines=I'm+Devanand+😎_|;Web+Developer+💻_|;🌐+Learning+APIs+🔗+%26+PostgreSQL+🐘_|;Building+Cool+Projects+🚀_|;Full+Stack+Developer+in+Progress+🌱_|" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=1800&pause=900&color=00FF00&center=true&vCenter=true&width=750&height=60&lines=I'm+Devanand+😎|;Web+Developer+💻|;🌐+Learning+APIs+🔗+%26+PostgreSQL+🐘|;Building+Cool+Projects+🚀|;Full+Stack+Developer+in+Progress+🌱|" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=1500&pause=700&color=00FF00&center=true&vCenter=true&width=700&height=60&lines=I'm+Devanand+😎_;Web+Developer+💻_;🌐+Learning+APIs+🔗+%26+PostgreSQL+🐘_;Building+Cool+Projects+🚀_;Full+Stack+Developer+in+Progress+🌱_;" />
+</p>
+
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=640&height=60&lines=I'm+Devanand+😎;Web+Developer+💻;🌐+Learning+APIs+🔗+%26+PostgreSQL+🐘;Building+Cool+Projects+🚀;Full+Stack+Developer+in+Progress+🌱&repeat=true&cursor=true" alt="Typing Animation" />
 </p>
 
