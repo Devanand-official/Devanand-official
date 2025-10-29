@@ -9,7 +9,7 @@
 <hr/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=28&duration=2000&pause=1000&color=00ff00&center=true&vCenter=true&width=600&lines=I'm+Devanand+😎;Web+Developer+💻;🌐+Learning+APIs+🔗+%26+PostgreSQL+🐘;Building+Cool+Projects+🚀;Full+Stack+Developer+in+Progress🌱" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=28&duration=2000&pause=1000&color=00ff00&center=true&vCenter=true&width=600&lines=I'm+Devanand+😎;Web+Developer+💻;🌐+Learning+APIs+🔗+%26+PostgreSQL+🐘;Building+Cool+Projects+🚀;Full+Stack+Developer+in+Progress+🌱" />
 </p>
 
 <div align="center">
