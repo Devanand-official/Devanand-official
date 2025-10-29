@@ -13,19 +13,15 @@
 </p>
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=I%27m%20a%20Web%20Developer%20🖥️&width=900&height=200"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=500&lines=I'm+Dev+Anand;I'm+a+Web+Developer;Frontend+%26+Backend+Learner;Turning+Ideas+into+Code+✨" />
 </p>
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=I%27m%20a%20Web%20Developer%20🖥️&color=pink&width=900&height=200"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=I'm+Dev+Anand;Full+Stack+Developer+in+Progress;JavaScript+Fanboy+⚡;React+Lover+💙" />
 </p>
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=I%27m%20a%20Web%20Developer%20🖥️&color=blue&width=900&height=200"/>
-</p>
-
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=I%27m%20a%20Web%20Developer%20🖥️&color=green&width=900&height=200"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=28&duration=2000&pause=900&color=00ff00&center=true&vCenter=true&width=600&lines=I'm+Dev+Anand;Web+Developer+🖥️;Learning+NodeJS+%26+PostgreSQL;Building+Cool+Projects+🚀" />
 </p>
 
 
