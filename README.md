@@ -12,7 +12,7 @@
 
 ## I'm a Web Developer 🖥️
 
-<h3><sub>I'm a Web Developer 🖥️</sub></h3>
+<h3> `I'm a Web Developer 🖥️` </h3>
 
 ### I'm a Web Developer 🖥️
   
