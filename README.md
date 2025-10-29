@@ -133,7 +133,7 @@
 
 <div/>
 
-[![Devanand's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Devanand-official&bg_color=000000&color=ffffff&line=00A308&point=ffffff&area=true&hide_border=true&area_color=00FF0B)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Devanand's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Devanand-official&bg_color=000000&color=ffffff&line=00A308&point=ffffff&area=true&hide_border=true&area_color=2EFF38)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 
