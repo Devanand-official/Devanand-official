@@ -9,16 +9,7 @@
 <hr/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=28&duration=2000&pause=1000&color=B84FFF&center=true&vCenter=true&width=700&lines=I'm+DevAnand+😎✨;Web+Developer+🖥️💻;Learning+APIs+%26+PostgreSQL+🌐🔗🐘;Building+Cool+Projects+🚀⚡;Full+Stack+Developer+in+Progress+⏳🧩" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=28&duration=2000&pause=1000&color=FF4500&center=true&vCenter=true&width=700&lines=I'm+DevAnand+😎✨;Web+Developer+🖥️💻;Learning+APIs+%26+PostgreSQL+🌐🔗🐘;Building+Cool+Projects+🚀⚡;Full+Stack+Developer+in+Progress+⏳🧩" />
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=28&duration=2000&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=I'm+DevAnand+😎✨;Web+Developer+🖥️💻;Learning+APIs+%26+PostgreSQL+🌐🔗🐘;Building+Cool+Projects+🚀⚡;Full+Stack+Developer+in+Progress+⏳🧩" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=I'm+DevAnand+%F0%9F%98%8E;Web+Developer+%F0%9F%96%A5%EF%B8%8F;JavaScript+Lover+%F0%9F%94%A5;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Full+Stack+Developer+Loading...+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 
