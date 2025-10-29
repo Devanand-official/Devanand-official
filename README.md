@@ -1,5 +1,7 @@
 <h1 align="center">💫 Hi there 👋, It's me <em>Devanand</em> 😎</h1>
+
 <h1 align="center"><span style="color:#00ff00">root@devanand:~$</span> <strong>Web Developer</strong></h1>
+
 <p align="center"><span style="color:#00ff00">Access Granted ✅</span></p>
 
 
