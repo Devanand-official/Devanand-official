@@ -50,7 +50,10 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/devanand-online/">
+<a href="https://www.linkedin.com/in/devanand-online/"> 
+  
+[go](https://www.linkedin.com/in/devanand-online/){:target="_blank" rel="noopener"}
+  
 <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/></a>
 &nbsp;&nbsp;&nbsp;
 
