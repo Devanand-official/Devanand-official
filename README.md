@@ -8,14 +8,6 @@
 
 <hr/>
 
-<div align="center">
-
-<h3> 
-  
-  `I'm a Web Developer 🖥️` </h3>
-
-### I'm a Web Developer 🖥️
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=I'm+a+Web+Developer+🖥️;Crafting+Cool+Web+Experiences">
 </p>
@@ -32,6 +24,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1500&color=11F745&center=true&vCenter=true&width=600&lines=I'm+a+Web+Developer+🖥️;Frontend+Developer;Full-Stack+in+Progress;React+Lover+⚛️">
 </p>
 
+<div align="center">
+
+<h3> 
+  
+  `I'm a Web Developer 🖥️` </h3>
+
+### I'm a Web Developer 🖥️
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-1abc9c?style=for-the-badge)](https://devanand.is-a.dev)
 
