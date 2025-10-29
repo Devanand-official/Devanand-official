@@ -66,7 +66,7 @@
 <img height="45" src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Portfolio"/></a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://devanand.is-a.dev/assets/Devanand_CV.pdf" target="_blank">
+<a href="https://devanand.is-a.dev/assets/Devanand_CV.pdf" target="_blank" rel="noopener">
 <img height="42" src="https://cdn.simpleicons.org/readthedocs/white"/></a>
 
 </p>
