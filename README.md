@@ -24,7 +24,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Devanand-official&style=for-the-badge)
 
-<img align="right" width="300" src="./assets/Web-Developer.gif" alt="Animation" />
+<img align="right" width="300" src="./assets/Web_Developer.gif" alt="Animation" />
 
 </div>
 
