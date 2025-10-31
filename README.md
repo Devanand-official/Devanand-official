@@ -24,7 +24,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Devanand-official&style=for-the-badge)
 
-<img align="right" width="300" src="./assets/Web-Developer.gif" alt="Animation" />
+<img align="right" width="300" src="./assets/Web_Developer.gif" alt="Animation" />
 
 </div>
 
@@ -84,36 +84,38 @@
 <p align="center">
 
 <!-- Frontend -->
+
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/> &nbsp;&nbsp;&nbsp;
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/> &nbsp;&nbsp;&nbsp;
-<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/> 
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
 &nbsp;&nbsp;&nbsp;
-<img height="58px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"/> 
+<img height="58px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"/>
 &nbsp;&nbsp;&nbsp;
 <img height="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery"/> &nbsp;&nbsp;&nbsp;
 <img height="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/> &nbsp;&nbsp;&nbsp;
-<img height="58px" src="https://cdn.simpleicons.org/ejs/8BC34A" alt="EJS"/> 
+<img height="58px" src="https://cdn.simpleicons.org/ejs/8BC34A" alt="EJS"/>
 &nbsp;&nbsp;&nbsp;
 
 <!-- Backend -->
 
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS"/> &nbsp;&nbsp;&nbsp;
-<img height="58px" src="https://cdn.simpleicons.org/express/FFFFFF" alt="Express.js"/> 
+<img height="58px" src="https://cdn.simpleicons.org/express/FFFFFF" alt="Express.js"/>
 &nbsp;&nbsp;&nbsp;
 <img height="50px" src="https://cdn.simpleicons.org/nodemon/76D04B" alt="Nodemon"/>
 &nbsp;&nbsp;&nbsp;
 <img height="50px" src="https://cdn.simpleicons.org/npm/CB3837" alt="NPM"/>
- &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
- &nbsp;&nbsp;&nbsp;
- 
+&nbsp;&nbsp;&nbsp;
+
 <!-- Tools -->
+
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/> &nbsp;&nbsp;&nbsp;
-<img height="50px" src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub"/> 
+<img height="50px" src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub"/>
 &nbsp;&nbsp;&nbsp;
-<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/> 
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/>
 &nbsp;&nbsp;&nbsp;
-<img height="50px" src="./assets/Canva.png" alt="Canva"/> 
+<img height="50px" src="./assets/Canva.png" alt="Canva"/>
 &nbsp;&nbsp;&nbsp;
 <img height="50px" src="./assets/Clipchamp.png" alt="Clipchamp"/>
 
@@ -144,5 +146,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-
