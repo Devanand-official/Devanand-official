@@ -131,8 +131,8 @@
 &nbsp;&nbsp;&nbsp;
 <img height="50px" src="./assets/Clipchamp.png" alt="Clipchamp"/>
 &nbsp;&nbsp;&nbsp;
-<img height="50px" src="./assets/Notion.png" alt="Notion"/>
-&nbsp;&nbsp;&nbsp;
+<!-- <img height="50px" src="./assets/Notion.png" alt="Notion"/>
+&nbsp;&nbsp;&nbsp; -->
 
 </p>
 
