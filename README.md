@@ -123,7 +123,7 @@
 &nbsp;&nbsp;&nbsp;
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/>
 &nbsp;&nbsp;&nbsp;
-<br />
+<br /><br />
 
 <!-- Editing -->
 
@@ -133,7 +133,7 @@
 &nbsp;&nbsp;&nbsp;
 <img height="50px" src="./assets/Notion.png" alt="Notion"/>
 &nbsp;&nbsp;&nbsp; 
-
+<br />
 </p>
 
 <div/>
