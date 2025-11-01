@@ -97,6 +97,7 @@
 &nbsp;&nbsp;&nbsp;
 <img height="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
 &nbsp;&nbsp;&nbsp;
+<br />
 
 <!-- Backend -->
 
@@ -112,6 +113,7 @@
 &nbsp;&nbsp;&nbsp;
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
 &nbsp;&nbsp;&nbsp;
+<br />
 
 <!-- Tools -->
 
@@ -121,6 +123,7 @@
 &nbsp;&nbsp;&nbsp;
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/>
 &nbsp;&nbsp;&nbsp;
+<br />
 
 <!-- Editing -->
 
