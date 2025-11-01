@@ -85,20 +85,25 @@
 
 <!-- Frontend -->
 
-<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/> &nbsp;&nbsp;&nbsp;
-<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/> &nbsp;&nbsp;&nbsp;
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
+&nbsp;&nbsp;&nbsp;
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
+&nbsp;&nbsp;&nbsp;
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
 &nbsp;&nbsp;&nbsp;
 <img height="58px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"/>
 &nbsp;&nbsp;&nbsp;
-<img height="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery"/> &nbsp;&nbsp;&nbsp;
-<img height="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/> &nbsp;&nbsp;&nbsp;
+<img height="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery"/>
+&nbsp;&nbsp;&nbsp;
+<img height="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
+&nbsp;&nbsp;&nbsp;
 
 <!-- Backend -->
 
 <img height="58px" src="https://cdn.simpleicons.org/ejs/8BC34A" alt="EJS"/>
 &nbsp;&nbsp;&nbsp;
-<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS"/> &nbsp;&nbsp;&nbsp;
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS"/>
+&nbsp;&nbsp;&nbsp;
 <img height="58px" src="https://cdn.simpleicons.org/express/FFFFFF" alt="Express.js"/>
 &nbsp;&nbsp;&nbsp;
 <img height="50px" src="https://cdn.simpleicons.org/nodemon/76D04B" alt="Nodemon"/>
@@ -110,7 +115,8 @@
 
 <!-- Tools -->
 
-<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/> &nbsp;&nbsp;&nbsp;
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
+&nbsp;&nbsp;&nbsp;
 <img height="50px" src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub"/>
 &nbsp;&nbsp;&nbsp;
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/>
