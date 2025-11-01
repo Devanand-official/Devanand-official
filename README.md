@@ -115,6 +115,9 @@
 &nbsp;&nbsp;&nbsp;
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/>
 &nbsp;&nbsp;&nbsp;
+
+<!-- Editing -->
+
 <img height="50px" src="./assets/Canva.png" alt="Canva"/>
 &nbsp;&nbsp;&nbsp;
 <img height="50px" src="./assets/Clipchamp.png" alt="Clipchamp"/>
