@@ -102,17 +102,17 @@
 <!-- Backend -->
 
 <img height="58px" src="https://cdn.simpleicons.org/ejs/8BC34A" alt="EJS"/>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS"/>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img height="58px" src="https://cdn.simpleicons.org/express/FFFFFF" alt="Express.js"/>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img height="50px" src="https://cdn.simpleicons.org/nodemon/76D04B" alt="Nodemon"/>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img height="50px" src="https://cdn.simpleicons.org/npm/CB3837" alt="NPM"/>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <br />
 
 <!-- Tools -->
