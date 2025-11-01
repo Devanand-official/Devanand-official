@@ -123,7 +123,7 @@
 &nbsp;&nbsp;&nbsp;
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/>
 &nbsp;&nbsp;&nbsp;
-<br /><br />
+<br />
 
 <!-- Editing -->
 
