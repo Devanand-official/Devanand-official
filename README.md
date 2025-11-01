@@ -109,14 +109,14 @@
 &nbsp;&nbsp;
 <img height="50px" src="https://cdn.simpleicons.org/nodemon/76D04B" alt="Nodemon"/>
 &nbsp;&nbsp;
-<img height="50px" src="https://cdn.simpleicons.org/npm/CB3837" alt="NPM"/>
-&nbsp;&nbsp;
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
 &nbsp;&nbsp;
 <br />
 
 <!-- Tools -->
 
+<img height="50px" src="https://cdn.simpleicons.org/npm/CB3837" alt="NPM"/>
+&nbsp;&nbsp;&nbsp;
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
 &nbsp;&nbsp;&nbsp;
 <img height="50px" src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub"/>
