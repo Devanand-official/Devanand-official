@@ -108,7 +108,7 @@
 <img height="58px" src="https://cdn.simpleicons.org/express/FFFFFF" alt="Express.js"/>
 &nbsp;&nbsp;&nbsp;
 <img height="50px" src="https://cdn.simpleicons.org/nodemon/76D04B" alt="Nodemon"/>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
 &nbsp;&nbsp;&nbsp;
 <br />
