@@ -42,7 +42,7 @@
 
 ### 📚 I’m currently learning:
 
-‣ PostgreSQL, APIs, and modern Web Development best practices
+‣ APIs and modern Web Development best practices
 
 ### 💬 Ask me about:
 
