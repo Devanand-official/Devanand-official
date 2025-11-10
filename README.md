@@ -109,7 +109,7 @@
 &nbsp;&nbsp;&nbsp;
 <img height="50px" src="https://cdn.simpleicons.org/nodemon/76D04B" alt="Nodemon"/>
 &nbsp;&nbsp;&nbsp;
-<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
 &nbsp;&nbsp;&nbsp;
 <br />
 
