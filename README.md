@@ -46,7 +46,7 @@
 
 ### 💬 Ask me about:
 
-‣ HTML5, CSS3, JavaScript, Responsive Design and Git/GitHub
+‣ HTML, CSS, JavaScript, React and Git/GitHub
 
 ### ⚡ Fun fact:
 
